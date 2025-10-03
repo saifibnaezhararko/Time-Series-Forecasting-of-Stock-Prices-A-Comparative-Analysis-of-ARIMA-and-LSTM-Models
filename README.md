@@ -1,2 +1,13 @@
-# Time-Series-Forecasting-of-Stock-Prices-A-Comparative-Analysis-of-ARIMA-and-LSTM-Models
-This study investigates the comparative performance of AutoRegressive Integrated Moving Average (ARIMA) models and Long Short-Term Memory (LSTM) neural networks for forecast- ing Microsoft stock prices. The primary research question addresses which modeling approach demonstrates better generalization performance when evaluated 
+---
+title: DataSynthis ML JobTask
+emoji: 📊
+colorFrom: gray
+colorTo: indigo
+sdk: gradio
+sdk_version: 5.48.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
