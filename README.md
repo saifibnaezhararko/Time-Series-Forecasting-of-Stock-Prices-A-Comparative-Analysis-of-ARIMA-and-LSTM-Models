@@ -9,5 +9,8 @@ app_file: app.py
 pinned: false
 license: mit
 ---
+
+
 Hugging Face Model Deployment Link: https://huggingface.co/spaces/saifarko/DataSynthis_ML_JobTask
+---
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
