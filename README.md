@@ -1,5 +1,6 @@
 ---
 title: DataSynthis ML JobTask
+Hugging Face Model Deployment Link: https://huggingface.co/spaces/saifarko/DataSynthis_ML_JobTask
 emoji: 📊
 colorFrom: gray
 colorTo: indigo
